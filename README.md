@@ -140,7 +140,6 @@ path = []
 visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
-
 ```
 <h3>Result:</h3>
 <hr>
